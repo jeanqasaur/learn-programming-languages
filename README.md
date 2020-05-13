@@ -24,6 +24,8 @@ This is mostly based on an email I wrote to someone a few months ago who wanted 
 It's way past my bedtime, so I'm going to put a list of conferences I've submitted to, plus a couple more. This is by no means a complete list.
   * Principles of Programming Languages (POPL)
   * Programming Language Design and Implementation (PLDI)
+  * History of Programming Languages (HOPL)
+  * Summit on Advances in Programming Languages (SNAPL)
   * International Conference on Functional Programming (ICFP)
   * SPLASH
   * ASPLOS
